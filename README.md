@@ -16,7 +16,7 @@ Demo : http://xmas.ddaniel.ro/
   * HTML
   * CSS
   * JavaScript
-  * 
+  
  - Contains animations when scrolling.
  - Smooth scrolling in each section.
  - Responsive Christmas Website Using HTML CSS & JavaScript
